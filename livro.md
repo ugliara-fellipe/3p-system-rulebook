@@ -4,16 +4,18 @@ Este é um jogo de contar histórias, como todo jogo esse tem um conjunto de reg
 
 Guiar a história é responsabilidade do mestre de jogo (MdJ), ele tem como objetivo dar vida a lugares, descrever os acontecimentos, elaborar os desafios, motivar a exploração, engajando os jogadores a participar ativamente da trama. Os personagens dessas histórias são de dois tipos: aqueles conduzidos pelos jogadores que são os personagens jogáveis (PJ), e os personagens guiados pelo mestre de jogo que são os personagens não jogáveis (PNJ).
 
-As histórias podem ser contadas a grupos de jogadores de tamanhos diferentes, normalmente esses grupos terão de dois a cinco participantes. Os materiais usados neste jogo serão: este livro, papeis, lápis, canetas, dados de doze (12) lados.
+As histórias podem ser contadas a grupos de jogadores de tamanhos diferentes, normalmente esses grupos terão de dois a cinco participantes. Os materiais usados neste jogo serão: este livro, papeis, lápis, canetas, dados de doze lados (d12).
 
-Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se desenrolar, com florestas, estradas sombrias, vilarejos, personagens e todos as coisas necessárias para que o MdJ crie uma história que prenda e instigue os jogadores. Cada jogador costuma usar um único personagem por partida, mas se o MdJ julgar adequado os jogadores podem conduzir mais personagens. 
+Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se desenrolar, com florestas, estradas sombrias, vilarejos, personagens e todos as coisas necessárias para que o MdJ crie uma história que prenda e instigue os jogadores. Cada jogador costuma usar um único personagem por partida, mas se o MdJ julgar adequado os jogadores podem conduzir mais personagens.
 
-Os personagens são criados usando fichas de personagens. Essas fichas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os PNJs usados pelo MdJ que não se envolveram em situações de confronto não precisam de uma ficha de personagem, uma breve descrição do personagem feita pelo MdJ é suficiente na maioria das vezes. O mestre de jogo também pode criar fichas simplificadas só para resolver impasses específicos.
+Os personagens são criados usando planilhas de personagens (PdP). Essas planilhas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os PNJs usados pelo MdJ que não se envolveram em situações de confronto não precisam de uma planilha de personagem, uma breve descrição do personagem feita pelo MdJ é suficiente na maioria das vezes. O mestre de jogo também pode criar PdPs simplificadas só para resolver impasses específicos.
 
-| Aspectos  | Virtudes | Infortúnios| Injurias | Equipamentos | Itens |
-|:----------|:---------|:-----------|:---------|:-------------|:------|
-| Robusto 1:8<br/> Hábil 1:8<br/> Racional 1:8<br/> Emotivo 1:8<br/> Místico 1:8<br/> Veloz 1:8<br/> Astuto 1:8<br/> Tenaz 1:8<br/> Preciso 1:8<br/> Atento 1:8<br/> Sedutor 1:8<br/> Vibrante 1:8<br/> Adepto 1:8<br/> Forte 1:8<br/> Brusco 1:8  |    |            |          |              |       |
-|Total 15:120   | Progresso 10       |            |          |              |       |
+As PdPs contêm os seguintes campos: Aspectos que definem as bases do personagem, cada aspecto tem um valor que vai de 1 à 8 (1:8); uma lista de virtudes; uma lista de Infortúnios; informações sobre Injurias, descreve a condição física e mental do personagem; lista de Equipamentos; Total de pontos de Evolução usados; Pontos de Evolução disponíveis; Nome do personagem.
+
+| Aspectos  | Virtudes | Infortúnios| Injurias | Equipamentos |
+|:----------|:---------|:-----------|:---------|:-------------|
+| Robusto 1:8<br/> Hábil 1:8<br/> Racional 1:8<br/> Emotivo 1:8<br/> Místico 1:8<br/> Veloz 1:8<br/> Astuto 1:8<br/> Tenaz 1:8<br/> Preciso 1:8<br/> Atento 1:8<br/> Sedutor 1:8<br/> Vibrante 1:8<br/> Adepto 1:8<br/> Forte 1:8<br/> Brusco 1:8  |  Virtude A<br/> Virtude B<br/> Virtude C<br/> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> |  Infortúnio A<br/> Infortúnio B<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> | Levemente<br/>Moderado<br/>Gravemente<br/>Incapacitado<br/>Queimando<br/>Congelando<br/>Insanidade<br/>Desmaiado<br/>Envenenado<br/>Paralisado<br/>Intimidado<br/>Fraturado<br/>Perturbado<br/>Enfermo<br/>Amaldiçoado |  Item A<br/> Item B<br/> Item C<br/> Item D<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>|
+|Total 15:120   | Evolução 10    |         |        |   Nome        |
 
 Conflitos, confrontos, impasses são situações que ocorrem durante a história que podem ser positivas ou negativas para os personagens jogáveis. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em resolver determinada situação de modo favorável.
 
@@ -21,9 +23,9 @@ Situações de teste sempre terão dois envolvidos, somente um dos envolvidos se
 
 Majoritariamente só os jogadores rolam os dados. Nas disputas PJ versus PNJ, e PJ versus CN, só um jogador está envolvido e ele será responsável por rolar o dado. No caso PJ versus PJ, qualquer um dos jogadores pode rolar o dado, não existindo consenso a respeito de quem lançara o dado, fica a cargo do MdJ realizar a jogada.
 
-As etapas de um conflito são: o MdJ descreve a situação em que o personagem esta envolvido; o jogador decide como seu personagem agirá para resolver o impasse; o MdJ define quais são as dificuldades e os aspectos envolvidos no conflito; de acordo com a tabela de valores (TdV) os envolvidos no conflito recebem um grupo de números do d12; o dado é jogado, aquele que ficou com o número que saiu no dado obtém sucesso em sua ação e o outro envolvido no conflito falha em sua ação.
+As etapas de um conflito são: o MdJ descreve a situação em que o personagem esta envolvido; o jogador decide como seu personagem agirá para resolver o impasse; o MdJ define quais são as dificuldades e os aspectos envolvidos no conflito; de acordo com a tabela de valores (TdV) os envolvidos no conflito recebem um grupo de números do d12; o dado é jogado, aquele que ficou de posse do número que saiu no dado obtém sucesso em sua ação e o outro envolvido no conflito falha em sua ação.
 
-As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações ocorrem de forma isolada e um único teste define o que ocorrerá, outras ocorrem de modo continuo como um combate em que uma situação será seguida de outra até que o combate esteja encerrado.
+As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações ocorrem de forma isolada e um único teste define o que ocorrerá, outras ocorrem de modo continuo como nos combate em que uma situação será seguida de outra até que o combate esteja encerrado.
 
 Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma rolagem de dado. O valor máximo de cada aspecto e de cada dificuldade é 8, e o mínimo é 1. Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
@@ -50,12 +52,18 @@ Esse deslocamento nunca moverá todos os números de um lado para o outro, cada 
 
 Level Máximo 120 = 15 aspectos * 8 níveis.
 
-# Evolução dos personagens
+# Evolução dos Personagens
+
+# Movimentos dos Personagens
+
+Irá funcionar como as injurias, não sera um numero mas situações possíveis, como distante perto, próximo, estados que mudam de uma situação para a outra.
 
 # Combates e Injurias
 
+Não tem pontos de vida mas níveis de ferimentos.
+
 # Virtudes e Infortúnios
 
-# Equipamentos e Itens
+# Equipamentos
 
 
