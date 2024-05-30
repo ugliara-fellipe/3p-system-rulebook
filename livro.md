@@ -10,12 +10,19 @@ Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se de
 
 Os personagens são criados usando planilhas de personagens (PdP). Essas planilhas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os PNJs usados pelo MdJ que não se envolveram em situações de confronto não precisam de uma planilha de personagem, uma breve descrição do personagem feita pelo MdJ é suficiente na maioria das vezes. O mestre de jogo também pode criar PdPs simplificadas só para resolver impasses específicos.
 
-As PdPs contêm os seguintes campos: Aspectos que definem as bases do personagem, cada aspecto tem um valor que vai de 1 à 8 (1:8); uma lista de virtudes; uma lista de Infortúnios; informações sobre Injurias, descreve a condição física e mental do personagem; lista de Equipamentos; Total de pontos de Evolução usados; Pontos de Evolução disponíveis; Nome do personagem.
+As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem; o valor de cada aspecto que varia de um à oito (1:8); o valor pratica em cada aspecto que varia de zero à doze (0:12); uma lista de virtudes; uma lista de infortúnios; uma lista das injurias que descrevem a condição física e mental em que o personagem se encontra; uma lista de equipamentos que o personagem está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
 
-| Aspectos  | Virtudes | Infortúnios| Injurias | Equipamentos |
-|:----------|:---------|:-----------|:---------|:-------------|
-| Robusto 1:8<br/> Hábil 1:8<br/> Racional 1:8<br/> Emotivo 1:8<br/> Místico 1:8<br/> Veloz 1:8<br/> Astuto 1:8<br/> Tenaz 1:8<br/> Preciso 1:8<br/> Atento 1:8<br/> Sedutor 1:8<br/> Vibrante 1:8<br/> Adepto 1:8<br/> Forte 1:8<br/> Brusco 1:8  |  Virtude A<br/> Virtude B<br/> Virtude C<br/> <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> |  Infortúnio A<br/> Infortúnio B<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> | Levemente<br/>Moderado<br/>Gravemente<br/>Incapacitado<br/>Queimando<br/>Congelando<br/>Insanidade<br/>Desmaiado<br/>Envenenado<br/>Paralisado<br/>Intimidado<br/>Fraturado<br/>Perturbado<br/>Enfermo<br/>Amaldiçoado |  Item A<br/> Item B<br/> Item C<br/> Item D<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>|
-|Total 15:120   | Evolução 10    |         |        |   Nome        |
+| Campo           | Conteúdo                                   |
+|:----------------|:-------------------------------------------|
+| Nome            | O nome do personagem                       |
+| Descrição       | Breve descrição do personagem, o que ele é |
+| Aspecto         | Robusto, Hábil, Racional, Emotivo, Místico, Veloz, Astuto, Tenaz, Preciso, Atento, Sedutor, Vibrante, Adepto, Forte, Brusco |
+| Aspecto.Valor   | Valor que varia de 1 à 8 para cada aspecto |
+| Aspecto.Pratica | Valor que varia de 0 à 12 para cada aspecto|
+| Virtude         | Lista das virtudes que o personagem possui |
+| Infortúnios     | Lista das infortúnios que o PJ possui      |
+| Injurias        | Levemente, Moderado, Gravemente, Incapacitado, Queimando, Congelando, Insanidade, Desmaiado, Envenenado, Paralisado, Intimidado, Fraturado, Perturbado, Enfermo, Atormentado |
+| Equipamentos    | Lista de itens que o PJ carrega consigo    |
 
 Conflitos, confrontos, impasses são situações que ocorrem durante a história que podem ser positivas ou negativas para os personagens jogáveis. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em resolver determinada situação de modo favorável.
 
@@ -50,13 +57,23 @@ Esse deslocamento nunca moverá todos os números de um lado para o outro, cada 
 
 # Criação de Personagens
 
-Level Máximo 120 = 15 aspectos * 8 níveis.
+Os personagens são criados preenchendo uma planilha de personagem, iniciando pelos aspectos. Cada aspecto tem um valor que inicia em 1 e pode ir até 8, no momento da criação do personagem será jogado um d12 e o valor deverá ser usado para melhorar os aspectos, sendo permitido avançar cada aspecto para um valor máximo de três (3) durante a criação do personagem.
+
+As virtudes e infortúnios são os próximos, durante a criação do personagem o jogador poderá:  escolher duas (2) virtudes bases (somente as virtudes e infortúnios base podem ser escolhidos na criação do personagem), ou escolher três (3) virtudes bases e um (1) infortúnio base.
+
+Para finalizar a criação do personagem são jogados cinco dados de doze (d12), a soma dos valores corresponde as moedas iniciais do PJ e podem ser usadas para comprar os equipamentos iniciais (somente equipamentos base podem ser adquiridos durante a criação dos personagens).
 
 # Evolução dos Personagens
 
+Para aumentar o valor de um determinado aspecto em mais um (+1) é necessário gastar doze (12) pontos de prática. Cada aspecto possui seus próprios pontos de prática que são conquistados durante a história toda vez que o PJ participa de um conflito que o coloca a prova, ganhando ou perdendo o conflito o PJ recebe mais um (+1) ponto de prática naquele aspecto utilizado.
+
+Virtudes e infortúnios são adquiridos durante o jogo exclusivamente pelas ações e decisões tomadas pelos PJs. Na descrição das virtudes e infortúnios estão definidos o que os personagens precisam realizar ou vivenciar durante a história para poderem receber tais virtudes e serem incomodados por algum infortúnio.
+
+Mais moedas e equipamentos são conquistados durante o jogo, não existe uma regra para isso, a história oportunidades de comprar, fabricar, roubar, moedas e equipamentos são postas a frente dos PJs que definem o que faram para adquirir o que eles precisão e desejam.
+
 # Movimentos dos Personagens
 
-Irá funcionar como as injurias, não sera um numero mas situações possíveis, como distante perto, próximo, estados que mudam de uma situação para a outra.
+Irão funcionar como as injurias. Não sera um numero mas situações possíveis, como "distante"  , "perto", "próximo", "escondido", estados que mudam de uma situação para a outra.
 
 # Combates e Injurias
 
@@ -64,6 +81,11 @@ Não tem pontos de vida mas níveis de ferimentos.
 
 # Virtudes e Infortúnios
 
+Marcar as virtudes e os infortúnios que são base e podem ser usados na criação dos personagens.
+
+Os infortúnios são condições negativas que os PJs convivem de modo durador, já as injurias representam o estado físico e mental atual dos PJs elas são condições negativas mais voláteis.
+
 # Equipamentos
 
+Marcar os equipamentos que são base e podem ser usados na criação dos personagens.
 
