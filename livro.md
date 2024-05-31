@@ -38,9 +38,11 @@ Majoritariamente só os jogadores rolam os dados. Nas disputas PJ versus PNJ, e 
 
 As etapas de um conflito são: o MdJ descreve a situação em que o personagem esta envolvido; o jogador decide como seu personagem agirá para resolver o impasse; o MdJ define quais são as dificuldades e os aspectos envolvidos no conflito; de acordo com a tabela de valores (TdV) os envolvidos no conflito recebem um grupo de números do d12; o dado é jogado, aquele que ficou de posse do número que saiu no dado obtém sucesso em sua ação e o outro envolvido no conflito falha em sua ação.
 
-As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações ocorrem de forma isolada e um único teste define o que ocorrerá, outras ocorrem de modo continuo como nos combate em que uma situação será seguida de outra até que o combate esteja encerrado.
+As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações acontecem de forma isolada e com um único teste se pode definir o resultado dessa disputa. Outras situações ocorrem de modo continuo como nos combate no qual uma ação será seguida de outra até que o combate termine.
 
-Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma rolagem de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
+Quando uma situação se inicia os jogadores que estão fora da situação não ficam inertes esperando que ela termine, eles podem estar envolvidos em outras situações ou estarem realizando alguma ação que não envolva um teste. Assim é importante manter as situações e as ações que não requerem testes alinhadas, elas devem acontecer simultaneamente dentro de uma janela coerente de tempo, para que a história faça sentido.
+
+Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma jogada de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
 # Tabela de Valores
 
