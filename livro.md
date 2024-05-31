@@ -16,7 +16,7 @@ Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se de
 
 Os personagens são criados usando planilhas de personagens (PdP). Essas planilhas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os PNJs usados pelo MdJ que não se envolveram em situações de confronto não precisam de uma planilha de personagem, uma breve descrição do personagem feita pelo MdJ é suficiente na maioria das vezes. O mestre de jogo também pode criar PdPs simplificadas só para resolver impasses específicos.
 
-As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem; o valor de cada aspecto que varia de um à oito (1:8); o valor pratica em cada aspecto que varia de zero à doze (0:12); uma lista de virtudes; uma lista de infortúnios; uma lista das injurias que descrevem a condição física e mental em que o personagem se encontra; uma lista de equipamentos que o personagem está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
+As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem; o valor de cada aspecto varia de um à oito (1:8); o valor pratica em cada aspecto que varia de zero à doze (0:12); uma lista de virtudes e infortúnios; uma lista de efeitos e injurias; uma lista de equipamentos que o personagem está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
 
 | Campo           | Conteúdo                                   |
 |:----------------|:-------------------------------------------|
@@ -25,12 +25,13 @@ As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as 
 | Aspecto         | Robusto, Hábil, Racional, Emotivo, Místico, Veloz, Astuto, Tenaz, Preciso, Atento, Sedutor, Vibrante, Adepto, Forte, Brusco |
 | Aspecto.Valor   | Valor que varia de 1 à 8 para cada aspecto |
 | Aspecto.Pratica | Valor que varia de 0 à 12 para cada aspecto|
-| Virtude         | Lista das virtudes que o personagem possui |
-| Infortúnios     | Lista das infortúnios que o PJ possui      |
-| Injurias        | Levemente, Moderado, Gravemente, Incapacitado, Queimando, Congelando, Insanidade, Desmaiado, Envenenado, Paralisado, Intimidado, Fraturado, Perturbado, Enfermo, Atormentado |
+| Efeitos e Injurias   | Levemente, Moderado, Gravemente, Incapacitado, Queimando, Congelando, Insanidade, Desmaiado, Envenenado, Paralisado, Intimidado, Fraturado, Perturbado, Enfermo, Atormentado |
+| Virtude e Infortúnios | Lista das virtudes e Infortúnios que o personagem possui |
 | Equipamentos    | Lista de itens que o PJ carrega consigo    |
 
-Conflitos, confrontos, impasses são situações que ocorrem durante a história que podem ser positivas ou negativas para os personagens jogáveis. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em resolver determinada situação de modo favorável.
+Os personagens realizam ações durante a história, o MdJ descreve os cenários e o que está acontecendo ao redor dos PJs e os JGs decidem como os seus personagens iram agir em relação ao que está acontecendo. As ações que os personagens realizam são em sua maioria livres como caminhar, conversar com outro personagem, pegar algum objeto, e elas acontecem de modo positivo para os personagens, não existe um desafio a ser enfrentado pelos personagens para que essas ações sejam realizadas.
+
+Já em outros momentos da história, existiram conflitos, confrontos, impasses situações que podem ser positivas ou negativas para os PJs. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em realizar determinada ação de modo favorável.
 
 Situações de teste sempre terão dois envolvidos, somente um dos envolvidos será bem sucedido na disputa, não existem dois vitoriosos em uma única jogada de teste. Existem três casos de teste possíveis: PJ versus PJ, PJ versus PNJ, e PJ versus CN. Todos eles são resolvidos da mesma forma, jogando um dado de doze lados (d12) para definir quem vence a disputa.
 
@@ -42,7 +43,7 @@ As situações podem ocorrer a qualquer momento em que seja relevante saber se o
 
 Quando uma situação se inicia os jogadores que estão fora da situação não ficam inertes esperando que ela termine, eles podem estar envolvidos em outras situações ou estarem realizando alguma ação que não envolva um teste. Assim é importante manter as situações e as ações que não requerem testes alinhadas, elas devem acontecer simultaneamente dentro de uma janela coerente de tempo, para que a história faça sentido.
 
-Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma jogada de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
+Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma jogada de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, efeitos, injurias, e equipamentos nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
 # Tabela de Valores
 
@@ -89,11 +90,13 @@ O deslocamento dos personagens quase todo tempo é livre, o jogador precisa some
 
 As posições dos personagens podem ser representadas verbalmente ou com mapas, miniaturas e e outros elementos que o MdJ e os demais JGs acharem vantajoso para compreender o jogo. Não serão definidos valores para cada movimento, tudo é uma questão de coerência com a história, consenso entre os JGs e o MdJ, mas o mestre de jogo tem a palavra final sobre a possibilidade de realizar um determinado deslocamento.
 
-Mapas e miniaturas são elementos visuais que ajudam manter o engajamento com a história. As distâncias percorridas em um mapa somente devem ser coerentes, não necessitam ser precisas a ponto de requerer que o mapa seja quadriculados ou que se use uma régua para movimentar adequadamente os personagens.
+Mapas e miniaturas são elementos visuais que ajudam manter o engajamento com a história. As distâncias percorridas em um mapa somente devem ser coerentes, não necessitam de ser precisas a ponto de requerer que o mapa seja quadriculados ou que se use uma régua para movimentar adequadamente os personagens.
 
-# Combates e Injurias
+# Efeitos e Injurias
 
-Não tem pontos de vida mas níveis de ferimentos.
+Não tem pontos de vida mas níveis de ferimentos. efeitos sao coisas q afetam o pj como invisibilidade voo, buffs
+
+que descrevem a condição física e mental em que o personagem se encontra
 
 # Virtudes e Infortúnios
 
@@ -104,4 +107,7 @@ Os infortúnios são condições negativas que os PJs convivem de modo durador, 
 # Equipamentos
 
 Marcar os equipamentos que são base e podem ser usados na criação dos personagens.
+
+# Combate e outras Ações
+
 
