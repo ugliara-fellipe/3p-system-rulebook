@@ -1,10 +1,16 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 # Livro de Regras
 
 Este é um jogo de contar histórias, como todo jogo esse tem um conjunto de regras que determinam como resolver as situações de conflito, confronto, impasses que os jogadores enfrentaram. Diferente de outros jogos não existem vencedores e perdedores, o sucesso do jogo é participar da construção de bons enredos, elaborados coletivamente pelos jogadores e um mestre de jogo.
 
-Guiar a história é responsabilidade do mestre de jogo (MdJ), ele tem como objetivo dar vida a lugares, descrever os acontecimentos, elaborar os desafios, motivar a exploração, engajando os jogadores a participar ativamente da trama. Os personagens dessas histórias são de dois tipos: aqueles conduzidos pelos jogadores que são os personagens jogáveis (PJ), e os personagens guiados pelo mestre de jogo que são os personagens não jogáveis (PNJ).
+Guiar a história é responsabilidade do mestre de jogo (MdJ), ele tem como objetivo dar vida a lugares, descrever os acontecimentos, elaborar os desafios, motivar a exploração, engajando os jogadores (JG) a participar ativamente da trama. Os personagens dessas histórias são de dois tipos: aqueles conduzidos pelos jogadores que são os personagens jogáveis (PJ), e os personagens guiados pelo mestre de jogo que são os personagens não jogáveis (PNJ).
 
-As histórias podem ser contadas a grupos de jogadores de tamanhos diferentes, normalmente esses grupos terão de dois a cinco participantes. Os materiais usados neste jogo serão: este livro, papeis, lápis, canetas, dados de doze lados (d12).
+As histórias podem ser contadas a grupos de jogadores de tamanhos diferentes, normalmente esses grupos terão de dois a cinco participantes. Os materiais usados neste jogo serão: este livro, papeis, lápis, canetas, dados de doze lados (d12). Opcionalmente o MdJ pode usar materiais adicionais como mapas, miniaturas, cartas, o que ele precisar para tornar o jogo mais atrativo.
 
 Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se desenrolar, com florestas, estradas sombrias, vilarejos, personagens e todos as coisas necessárias para que o MdJ crie uma história que prenda e instigue os jogadores. Cada jogador costuma usar um único personagem por partida, mas se o MdJ julgar adequado os jogadores podem conduzir mais personagens.
 
@@ -26,7 +32,7 @@ As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as 
 
 Conflitos, confrontos, impasses são situações que ocorrem durante a história que podem ser positivas ou negativas para os personagens jogáveis. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em resolver determinada situação de modo favorável.
 
-Situações de teste sempre terão dois envolvidos, somente um dos envolvidos será bem sucedido na disputa, não existem dois vitoriosos em uma única jogada de teste. Existem três casos de teste possíveis: PJ versus PJ, PJ versus PNJ, e PJ versus CN. Todos eles são resolvidos da mesma forma, rolando um dado para decidir a disputa.
+Situações de teste sempre terão dois envolvidos, somente um dos envolvidos será bem sucedido na disputa, não existem dois vitoriosos em uma única jogada de teste. Existem três casos de teste possíveis: PJ versus PJ, PJ versus PNJ, e PJ versus CN. Todos eles são resolvidos da mesma forma, jogando um dado de doze lados (d12) para definir quem vence a disputa.
 
 Majoritariamente só os jogadores rolam os dados. Nas disputas PJ versus PNJ, e PJ versus CN, só um jogador está envolvido e ele será responsável por rolar o dado. No caso PJ versus PJ, qualquer um dos jogadores pode rolar o dado, não existindo consenso a respeito de quem lançara o dado, fica a cargo do MdJ realizar a jogada.
 
@@ -34,11 +40,13 @@ As etapas de um conflito são: o MdJ descreve a situação em que o personagem e
 
 As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações ocorrem de forma isolada e um único teste define o que ocorrerá, outras ocorrem de modo continuo como nos combate em que uma situação será seguida de outra até que o combate esteja encerrado.
 
-Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma rolagem de dado. O valor máximo de cada aspecto e de cada dificuldade é 8, e o mínimo é 1. Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
+Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma rolagem de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, injurias, equipamentos e itens nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
 # Tabela de Valores
 
-Os conflitos são resolvidos com base nos valores das dificuldades e dos aspectos envolvidos nas jogadas de dados. Para facilitar essas jogadas use a tabela a seguir, a primeira linha e a primeira coluna são os possíveis valores para as dificuldades e os aspectos envolvidos, vamos chama-los de aspecto A1 e aspecto A2. Caso A1 tenha valor 5 e A2 tenha valor 3, basta associar A1 ao numero correspondente na coluna 1 e A2 ao numero correspondente na linha 1, nessa caso 5 e 3. Agora basta pegar a célula da tabela em que esses valores se encontram, que seria: < 1:8, ^ 9:12. Como A1 ficou com a coluna 1 (< 1:8) caso o dado role um número de 1 à 8, A1 é vitorioso. Caso role um numero de 9 à 12 (^ 9:12), A2 vence. O simbolo < referencia aos valores do aspecto que ficou associado a coluna 1, e ^ referencia aos valores do aspecto que ficou associado a linha 1.
+Os conflitos são resolvidos com base nos valores das dificuldades e dos aspectos envolvidos nas jogadas de dados. Para facilitar essas jogadas use a tabela a seguir, a primeira linha e a primeira coluna são os possíveis valores para as dificuldades e os aspectos envolvidos, vamos chama-los de aspecto A1 e aspecto A2. O simbolo < indica que os valores a sua frente são do aspecto que ficou associado a primeira coluna, e ^ indica que os valores a sua frente são do aspecto que ficou associado a primeira linha.
+
+Caso A1 tenha valor 5 e A2 tenha valor 3, basta associar A1 ao número correspondente na coluna 1 e A2 ao numero correspondente na linha 1, nessa caso 5 e 3. Agora basta pegar a célula da tabela em que esses valores se encontram, que seria: < 1:8, ^ 9:12. Como A1 ficou com a coluna 1 (< 1:8) caso o dado role um número de 1 à 8, A1 é vitorioso. Caso role um numero de 9 à 12 (^ 9:12), A2 vence. 
 
 |  d12  | 1                   | 2                   | 3                   | 4                   | 5                   | 6                   | 7                   | 8                   |
 |---:|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|:--------------------|
@@ -51,13 +59,15 @@ Os conflitos são resolvidos com base nos valores das dificuldades e dos aspecto
 |  7 | <  1:11<br/>^  12   | <  1:11<br/>^  12   | <  1:10<br/>^ 11:12 | <  1:9 <br/>^ 10:12 | <  1:8 <br/>^  9:12 | <  1:7 <br/>^  8:12 | <  1:6 <br/>^  7:12 | <  1:5 <br/>^  6:12 |
 |  8 | <  1:11<br/>^  12   | <  1:11<br/>^  12   | <  1:11<br/>^  12   | <  1:10<br/>^ 11:12 | <  1:9 <br/>^ 10:12 | <  1:8 <br/>^  9:12 | <  1:7 <br/>^  8:12 | <  1:6 <br/>^  7:12 |
 
-A tabela de valores é construída a partir da diferença entre os valores dos aspectos e dificuldades. Caso os valores envolvidos sejam os mesmos, 2 e 2, 5 e 5, o d12 é dividido igualmente, os números de 1 à 6 para um e os números de 7 à 12 para o outro. Caso os números sejam diferentes, é subtraído o maior número do menor número e a diferença e usada para ampliar a parte do dado correspondente ao maior valor. No conflito 3 contra 5 a diferença é 5 - 3 = 2, então a parte do dado referente ao 3 perde 2 valores e a referente ao 5 ganha dois valores, ficando 1 à 4 em vez de 1 à 6, versus 5 à 12 em vez de 7 à 12. 
+A tabela de valores é construída a partir da diferença entre os valores dos aspectos e dificuldades. Caso os valores envolvidos sejam os mesmos como, 2 contra 2, 5 contra 5, e as outras possibilidades de valores iguais, o d12 é dividido igualmente, os números de 1 à 6 para um e os números de 7 à 12 para o outro. 
+
+Caso os números sejam diferentes, é subtraído o maior número do menor número e a diferença é usada para ampliar a parte do dado correspondente ao maior valor. No conflito 3 contra 5 a diferença é 5 - 3 = 2, então a parte do dado referente ao 3 perde 2 valores e a referente ao 5 ganha dois valores, ficando 1 à 4 em vez de 1 à 6, versus 5 à 12 em vez de 7 à 12. 
 
 Esse deslocamento nunca moverá todos os números de um lado para o outro, cada lado deve ter almenos um número, o 1 ou o 12, os envolvidos no impasse sempre terão ao menos uma chance de sucesso mesmo que remota. Os valores de deslocamento adicionais que sobram são simplesmente descartados.
 
 # Criação de Personagens
 
-Os personagens são criados preenchendo uma planilha de personagem, iniciando pelos aspectos. Cada aspecto tem um valor que inicia em 1 e pode ir até 8, no momento da criação do personagem será jogado um d12 e o valor deverá ser usado para melhorar os aspectos, sendo permitido avançar cada aspecto para um valor máximo de três (3) durante a criação do personagem.
+Os personagens são criados preenchendo uma planilha de personagem, iniciando pelos aspectos. Cada aspecto tem um valor que inicia em um (1) e pode ir até oito (8), no momento da criação do personagem será jogado um d12 e o valor deverá ser usado para melhorar os aspectos, sendo permitido avançar cada aspecto para o valor máximo de três (3) durante a criação do personagem.
 
 As virtudes e infortúnios são os próximos, durante a criação do personagem o jogador poderá:  escolher duas (2) virtudes bases (somente as virtudes e infortúnios base podem ser escolhidos na criação do personagem), ou escolher três (3) virtudes bases e um (1) infortúnio base.
 
@@ -67,13 +77,17 @@ Para finalizar a criação do personagem são jogados cinco dados de doze (d12),
 
 Para aumentar o valor de um determinado aspecto em mais um (+1) é necessário gastar doze (12) pontos de prática. Cada aspecto possui seus próprios pontos de prática que são conquistados durante a história toda vez que o PJ participa de um conflito que o coloca a prova, ganhando ou perdendo o conflito o PJ recebe mais um (+1) ponto de prática naquele aspecto utilizado.
 
-Virtudes e infortúnios são adquiridos durante o jogo exclusivamente pelas ações e decisões tomadas pelos PJs. Na descrição das virtudes e infortúnios estão definidos o que os personagens precisam realizar ou vivenciar durante a história para poderem receber tais virtudes e serem incomodados por algum infortúnio.
+Virtudes e infortúnios são adquiridos durante o jogo exclusivamente pelas ações e decisões tomadas pelos PJs. Na descrição das virtudes e infortúnios estão definidos o que os personagens precisam realizar ou vivenciar durante a história para que eles incorporem essas características.
 
-Mais moedas e equipamentos são conquistados durante o jogo, não existe uma regra para isso, a história oportunidades de comprar, fabricar, roubar, moedas e equipamentos são postas a frente dos PJs que definem o que faram para adquirir o que eles precisão e desejam.
+Mais moedas e equipamentos são conquistados durante o jogo, não existe uma regra para isso, durante a história oportunidades de comprar, fabricar, roubar, moedas e equipamentos são postas a frente dos PJs que definem o que faram para adquirir o que eles desejam.
 
-# Movimentos dos Personagens
+# Movimentando os Personagens
 
-Irão funcionar como as injurias. Não sera um numero mas situações possíveis, como "distante"  , "perto", "próximo", "escondido", estados que mudam de uma situação para a outra.
+O deslocamento dos personagens quase todo tempo é livre, o jogador precisa somente falar para os demais como o PJ vai se deslocar. O MdJ pode barrar o movimento de um personagem caso ele seja exagerado, como no caso de um PJ querer atravessar um imenso salão na duração de uma única situação. Provavelmente o personagem precisará utilizar duas ou mais situações para transpor uma grande distância.
+
+As posições dos personagens podem ser representadas verbalmente ou com mapas, miniaturas e e outros elementos que o MdJ e os demais JGs acharem vantajoso para compreender o jogo. Não serão definidos valores para cada movimento, tudo é uma questão de coerência com a história, consenso entre os JGs e o MdJ, mas o mestre de jogo tem a palavra final sobre a possibilidade de realizar um determinado deslocamento.
+
+Mapas e miniaturas são elementos visuais que ajudam manter o engajamento com a história. As distâncias percorridas em um mapa somente devem ser coerentes, não necessitam ser precisas a ponto de requerer que o mapa seja quadriculados ou que se use uma régua para movimentar adequadamente os personagens.
 
 # Combates e Injurias
 
