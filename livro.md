@@ -4,7 +4,7 @@
     }
 </style>
 
-# Livro de Regras
+# Regras do Jogo
 
 Este é um jogo de contar histórias, como todo jogo esse tem um conjunto de regras que determinam como resolver as situações de conflito, confronto, impasses que os jogadores enfrentaram. Diferente de outros jogos não existem vencedores e perdedores, o sucesso do jogo é participar da construção de bons enredos, elaborados coletivamente pelos jogadores e um mestre de jogo.
 
@@ -16,22 +16,20 @@ Em uma partida de jogo o MdJ usará um cenário (CN) onde a história irá se de
 
 Os personagens são criados usando planilhas de personagens (PdP). Essas planilhas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os PNJs usados pelo MdJ que não se envolveram em situações de confronto não precisam de uma planilha de personagem, uma breve descrição do personagem feita pelo MdJ é suficiente na maioria das vezes. O mestre de jogo também pode criar PdPs simplificadas só para resolver impasses específicos.
 
-As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem; o valor de cada aspecto varia de um à oito (1:8); o valor pratica em cada aspecto que varia de zero à doze (0:12); uma lista de virtudes e infortúnios; uma lista de efeitos e injurias; uma lista de equipamentos que o personagem está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
+As PdPs contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem, com um valor para cada aspecto variando de um à oito (1:8), e os pontos de pratica para cada aspecto que varia de zero à doze (0:12); uma lista de virtudes e infortúnios que são traços duradouros dos personagens; uma lista de efeitos e injurias que são traços temporários associados aos personagens; uma lista de equipamentos que o personagem está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
 
-| Campo           | Conteúdo                                   |
-|:----------------|:-------------------------------------------|
-| Nome            | O nome do personagem                       |
-| Descrição       | Breve descrição do personagem, o que ele é |
-| Aspecto         | Robusto, Hábil, Racional, Emotivo, Místico, Veloz, Astuto, Tenaz, Preciso, Atento, Sedutor, Vibrante, Adepto, Forte, Brusco |
-| Aspecto.Valor   | Valor que varia de 1 à 8 para cada aspecto |
-| Aspecto.Pratica | Valor que varia de 0 à 12 para cada aspecto|
-| Efeitos e Injurias   | Levemente, Moderado, Gravemente, Incapacitado, Queimando, Congelando, Insanidade, Desmaiado, Envenenado, Paralisado, Intimidado, Fraturado, Perturbado, Enfermo, Atormentado |
+| Campo                 | Conteúdo                                                 |
+|:----------------------|:---------------------------------------------------------|
+| Nome                  | O nome do personagem                                     |
+| Descrição             | Breve descrição do personagem                            |
+| Aspectos              | Robusto, Hábil, Racional, Emotivo, Místico, Veloz, Astuto, Tenaz, Preciso, Atento, Sedutor, Vibrante, Adepto, Forte, Brusco |
+| Efeitos e Injurias    | Ferido Levemente, Moderado, Gravemente, Incapacitado, Queimando, Congelando, Insanidade, Desmaiado, Envenenado, Paralisado, Intimidado, Fraturado, Perturbado, Enfermo, Atormentado, Acelerado |
 | Virtude e Infortúnios | Lista das virtudes e Infortúnios que o personagem possui |
-| Equipamentos    | Lista de itens que o PJ carrega consigo    |
+| Equipamentos          | Lista de itens que o PJ carrega consigo                  |
 
-Os personagens realizam ações durante a história, o MdJ descreve os cenários e o que está acontecendo ao redor dos PJs e os JGs decidem como os seus personagens iram agir em relação ao que está acontecendo. As ações que os personagens realizam são em sua maioria livres como caminhar, conversar com outro personagem, pegar algum objeto, e elas acontecem de modo positivo para os personagens, não existe um desafio a ser enfrentado pelos personagens para que essas ações sejam realizadas.
+Os personagens realizam diferentes ações durante a história, no geral o MdJ descreve os cenários e o que está acontecendo ao redor e os JGs decidem como seus personagens iram agir em relação ao que está ocorrendo. As ações que os PJs realizam são em sua maioria livres como caminhar, conversar com alguem, pegar algum objeto, e elas acontecem de modo positivo para os personagens, não existe um desafio a ser enfrentado para que essas ações sejam realizadas.
 
-Já em outros momentos da história, existiram conflitos, confrontos, impasses situações que podem ser positivas ou negativas para os PJs. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em realizar determinada ação de modo favorável.
+Já em outros momentos da história, existirão conflitos, confrontos, impasses situações que podem ser positivas ou negativas para os PJs. São momentos em que as ações escolhidas pelos jogadores serão testadas podendo seus personagens serem bem ou mau sucedidos em realizar determinada ação de modo favorável.
 
 Situações de teste sempre terão dois envolvidos, somente um dos envolvidos será bem sucedido na disputa, não existem dois vitoriosos em uma única jogada de teste. Existem três casos de teste possíveis: PJ versus PJ, PJ versus PNJ, e PJ versus CN. Todos eles são resolvidos da mesma forma, jogando um dado de doze lados (d12) para definir quem vence a disputa.
 
@@ -39,13 +37,13 @@ Majoritariamente só os jogadores rolam os dados. Nas disputas PJ versus PNJ, e 
 
 As etapas de um conflito são: o MdJ descreve a situação em que o personagem esta envolvido; o jogador decide como seu personagem agirá para resolver o impasse; o MdJ define quais são as dificuldades e os aspectos envolvidos no conflito; de acordo com a tabela de valores (TdV) os envolvidos no conflito recebem um grupo de números do d12; o dado é jogado, aquele que ficou de posse do número que saiu no dado obtém sucesso em sua ação e o outro envolvido no conflito falha em sua ação.
 
-As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações acontecem de forma isolada e com um único teste se pode definir o resultado dessa disputa. Outras situações ocorrem de modo continuo como nos combate no qual uma ação será seguida de outra até que o combate termine.
+As situações podem ocorrer a qualquer momento em que seja relevante saber se os PJs foram bem sucedidos em resolver algum desafio. Algumas situações acontecem de forma pontual e com um único teste é capaz de definir o resultado dessa disputa. Outras situações ocorrem de modo prolongado como nos combate no qual uma ação será seguida de outra até que o combate termine.
 
 Quando uma situação se inicia os jogadores que estão fora da situação não ficam inertes esperando que ela termine, eles podem estar envolvidos em outras situações ou estarem realizando alguma ação que não envolva um teste. Assim é importante manter as situações e as ações que não requerem testes alinhadas, elas devem acontecer simultaneamente dentro de uma janela coerente de tempo, para que a história faça sentido.
 
 Os valores dos aspectos dos personagens e as dificuldades impostas pelo MdJ definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma jogada de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, efeitos, injurias, e equipamentos nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
-# Tabela de Valores
+## Tabela de Valores
 
 Os conflitos são resolvidos com base nos valores das dificuldades e dos aspectos envolvidos nas jogadas de dados. Para facilitar essas jogadas use a tabela a seguir, a primeira linha e a primeira coluna são os possíveis valores para as dificuldades e os aspectos envolvidos, vamos chama-los de aspecto A1 e aspecto A2. O simbolo < indica que os valores a sua frente são do aspecto que ficou associado a primeira coluna, e ^ indica que os valores a sua frente são do aspecto que ficou associado a primeira linha.
 
@@ -68,7 +66,7 @@ Caso os números sejam diferentes, é subtraído o maior número do menor númer
 
 Esse deslocamento nunca moverá todos os números de um lado para o outro, cada lado deve ter almenos um número, o 1 ou o 12, os envolvidos no impasse sempre terão ao menos uma chance de sucesso mesmo que remota. Os valores de deslocamento adicionais que sobram são simplesmente descartados.
 
-# Criação de Personagens
+## Criação de Personagens
 
 Os personagens são criados preenchendo uma planilha de personagem, iniciando pelos aspectos. Cada aspecto tem um valor que inicia em um (1) e pode ir até oito (8), no momento da criação do personagem será jogado um d12 e o valor deverá ser usado para melhorar os aspectos, sendo permitido avançar cada aspecto para o valor máximo de três (3) durante a criação do personagem.
 
@@ -76,7 +74,7 @@ As virtudes e infortúnios são os próximos, durante a criação do personagem 
 
 Para finalizar a criação do personagem são jogados cinco dados de doze (d12), a soma dos valores corresponde as moedas iniciais do PJ e podem ser usadas para comprar os equipamentos iniciais (somente equipamentos base podem ser adquiridos durante a criação dos personagens).
 
-# Evolução dos Personagens
+## Evolução dos Personagens
 
 Para aumentar o valor de um determinado aspecto em mais um (+1) é necessário gastar doze (12) pontos de prática. Cada aspecto possui seus próprios pontos de prática que são conquistados durante a história toda vez que o PJ participa de um conflito que o coloca a prova, ganhando ou perdendo o conflito o PJ recebe mais um (+1) ponto de prática naquele aspecto utilizado.
 
@@ -84,7 +82,7 @@ Virtudes e infortúnios são adquiridos durante o jogo exclusivamente pelas aç�
 
 Mais moedas e equipamentos são conquistados durante o jogo, não existe uma regra para isso, durante a história oportunidades de comprar, fabricar, roubar, moedas e equipamentos são postas a frente dos PJs que definem o que faram para adquirir o que eles desejam.
 
-# Movimentando os Personagens
+## Ações de movimento
 
 O deslocamento dos personagens quase todo tempo é livre, o jogador precisa somente falar para os demais como o PJ vai se deslocar. O MdJ pode barrar o movimento de um personagem caso ele seja exagerado, como no caso de um PJ querer atravessar um imenso salão na duração de uma única situação. Provavelmente o personagem precisará utilizar duas ou mais situações para transpor uma grande distância.
 
@@ -92,22 +90,53 @@ As posições dos personagens podem ser representadas verbalmente ou com mapas, 
 
 Mapas e miniaturas são elementos visuais que ajudam manter o engajamento com a história. As distâncias percorridas em um mapa somente devem ser coerentes, não necessitam de ser precisas a ponto de requerer que o mapa seja quadriculados ou que se use uma régua para movimentar adequadamente os personagens.
 
-# Efeitos e Injurias
+## Efeitos e Injurias
 
 Não tem pontos de vida mas níveis de ferimentos. efeitos sao coisas q afetam o pj como invisibilidade voo, buffs
 
 que descrevem a condição física e mental em que o personagem se encontra
 
-# Virtudes e Infortúnios
+## Virtudes e Infortúnios
 
 Marcar as virtudes e os infortúnios que são base e podem ser usados na criação dos personagens.
 
 Os infortúnios são condições negativas que os PJs convivem de modo durador, já as injurias representam o estado físico e mental atual dos PJs elas são condições negativas mais voláteis.
 
-# Equipamentos
+## Carregando equipamentos
 
 Marcar os equipamentos que são base e podem ser usados na criação dos personagens.
 
-# Combate e outras Ações
+## Situações pontuais e prolongadas
+
+Descrever como as ações e situações ocorrem para que o tempo dentro da historia seja coerente
+
+## Substituição de Personagens
+
+Como substituir personagens mortos, aposentados, deixados para trás....
+
+# Traços duradouros e temporários
+
+lista das Virtudes e Infortúnios e lista dos Efeitos e Injurias
+
+# Viajando pelos ermos
+
+Descreve os ermos sua geografia lugares povos...
+
+# Desafios e suas Recompensas
+
+Lista de monstros, armadilhas e coisa que acabam com os PJs. recompensas
+
+# Caravanas, Andarilhos e Peregrinos
+
+A informação entra as duas cidades eh de difícil circulação os perigos das terras selvagens e da estrada são tantos que isolam as vilas e cidades
+As caravanas são as poucas pessoas que circulam de um aglomerado a outro.
+
+# Artefatos comercializados
+
+Lista de itens equipamentos...
+
+# Rumores dos Ermos
+
+Contos historias mitos novidades, informações fragmentadas deixar aberto muita coisa, não explicar o de talhe os jogadores que vão preencher as lacunas.
 
 
