@@ -6,7 +6,7 @@
 
 # Regras do Jogo
 
-Este é um jogo de contar histórias, como todo jogo esse tem um conjunto de regras para auxiliar nos momentos em que os jogadores confrontarão inúmeros desafios. Diferente de outros jogos não existem vencedores e perdedores, o sucesso do jogo é participar da construção de bons enredos, elaborados coletivamente pelos jogadores e um mestre de jogo.
+Este é um jogo de contar histórias, como todo jogo ele tem um conjunto de regras para balancear as ações dos participantes, mas diferente de outros jogos não existem vencedores e perdedores. O sucesso de uma partida está na construção de bons enredos, elaborados coletivamente pelos jogadores e um mestre de jogo.
 
 Guiar a história é responsabilidade do mestre de jogo (mestre), ele tem como objetivo dar vida a lugares, descrever os acontecimentos, elaborar os desafios, motivar a exploração, engajando os jogadores a participar ativamente da trama. O mestre também é o moderador das regras de jogo, ele tem a liberdade de adaptar, e ignorar qualquer regras quando for conveniente. As regras tem por objetivo trazer equilíbrio para a história, mas é mais importante mantém o jogo divertido e em movimento do que aplicar com exatidão uma determinada regra.
 
@@ -18,7 +18,7 @@ Em uma partida de jogo o mestre usará um cenário onde a história irá se dese
 
 Os personagens são criados usando planilhas de personagens (ficha/s). Essas planilhas descrevem os personagens e suas características e são usadas nas situações de conflito que aconteceram durante o jogo. Os personagens usados pelo mestre que não se envolveram em situações de confronto não precisam de uma ficha, uma breve descrição do personagem feita pelo mestre é suficiente na maioria das vezes. O mestre também pode criar fichas simplificadas só para resolver impasses específicos.
 
-As fichas contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem, com um valor para cada aspecto variando de um à oito (1&bull;8, o símbolo &bull; significa a variação de um valor a outro incluindo os próprios valores), e um contador de pontos de prática para cada aspecto; uma lista de virtudes e infortúnios que são traços duradouros dos personagens; uma lista de efeitos e injurias que são traços temporários; uma lista de equipamentos que ele está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
+As fichas contêm os seguintes campos: uma tabela com aspectos que representam as características básicas do personagem, com um valor para cada aspecto variando de um à oito (1&bull;8, significa a variação de um valor a outro, incluindo os próprios valores), e um contador de pontos de prática para cada aspecto; uma lista de virtudes e infortúnios que são traços duradouros dos personagens; uma lista de efeitos e injurias que são traços temporários; uma lista de equipamentos que ele está carregando consigo; o nome do personagem; e uma breve descrição a seu respeito.
 
 | Campo                 | Conteúdo                                          |
 |:----------------------|:--------------------------------------------------|
@@ -45,7 +45,7 @@ Quando uma situação se inicia os jogadores que estão fora da situação não 
 
 Os valores dos aspectos dos personagens e as dificuldades impostas pelo mestre definem quantos números os personagens e os desafios do cenário terão em sua posse durante uma jogada de dado. O valor máximo de cada aspecto e de cada dificuldade é oito (8), e o mínimo é um (1). Virtudes, infortúnios, efeitos, injurias, e equipamentos nunca alteram valores dos aspectos ou dificuldades, eles alteram condições e resultados de como a história poderá se desenrolar.
 
-## Tabela de Valores
+## Resolvendo Situações de Teste
 
 Os conflitos são resolvidos com base nos valores das dificuldades e dos aspectos envolvidos nas jogadas de dados. Para facilitar essas jogadas use a tabela a seguir, a primeira linha e a primeira coluna são os possíveis valores para as dificuldades e os aspectos envolvidos, vamos chama-los de aspecto AA e aspecto AB. O simbolo &larr; indica que os valores a sua frente são do aspecto que ficou associado a primeira coluna, e &uarr; indica que os valores a sua frente são do aspecto que ficou associado a primeira linha.
 
