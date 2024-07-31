@@ -8,8 +8,8 @@
 
 # Copyright e Licença
 
-Copyright 2024 Fellipe Augusto Ugliara. Licenciado sob a CC BY 4.0 
+Copyright 2024 Fellipe Augusto Ugliara. Licenciado sob a CC BY-SA 4.0
 
-Este trabalho está licenciado sob a Licença Atribuição 4.0 Internacional Creative Commons. 
-Para visualizar uma cópia desta licença, mande uma carta para Creative Commons, PO Box 1866, 
-Mountain View, CA 94042, USA ou visite https: //creativecommons.org/licenses/by /4.0
+Este trabalho está licenciado sob a Licença Creative Commons Attribution-
+ShareAlike 4.0 International. Para visualizar uma cópia desta licença, visite
+https://creativecommons.org/licenses/by-sa/4.0/
