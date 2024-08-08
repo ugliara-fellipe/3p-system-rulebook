@@ -12,4 +12,4 @@ Copyright 2024 Fellipe Augusto Ugliara. Licenciado sob a CC BY-SA 4.0
 
 Este trabalho está licenciado sob a Licença Creative Commons Attribution-
 ShareAlike 4.0 International. Para visualizar uma cópia desta licença, visite
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by-sa/4.0/deed.pt-br
