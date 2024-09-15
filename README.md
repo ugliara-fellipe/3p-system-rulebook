@@ -4,7 +4,7 @@
 
 [Versão Impressa](https://archive.org/details/sistema-3-p-livro-de-regras-impressao): Bom para imprimir em papel A4 e dobrar ao meio
 
-# Illustrations
+# Ilustrações
 
 https://www.oldbookart.com/david-roberts-louis-haghe-egypt-and-nubia-and-the-holy-land/
 
